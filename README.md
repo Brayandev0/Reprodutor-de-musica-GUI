@@ -12,6 +12,6 @@
 
 
 ## Observações
-Atualmente, devido à ausência de uma API do Spotify que permita reproduzir músicas diretamente, este projeto é apenas uma interface gráfica. 
+Atualmente, devido à ausência de uma API que permita reproduzir músicas diretamente, este projeto é apenas uma interface gráfica. 
 Assim que a API estiver disponível, o projeto será atualizado para incluir a funcionalidade de reprodução.
 
